@@ -41,7 +41,7 @@
     "md5-jkmyers": "0.0.1",
     "pouchdb-extend": "^0.1.0",
     "pouchdb-mapreduce-no-ddocs": "^2.3.2",
-    "pouchdb-promise": "5.4.4",
+    "pouchdb-promise": "^6.3.4",
     "uniq": "^1.0.1"
   },
   "devDependencies": {
